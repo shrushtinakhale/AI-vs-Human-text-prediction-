@@ -52,14 +52,15 @@ The project follows an end-to-end analytics workflow, including text preprocessi
 * Deploy the model as a web application or API
 
 ##📈 Dashboard Preview
-### Overall Dashboard
-![Dashboard Overview](screenshots/dashboard_overview.PNG)
+### 🔹 Overall Dashboard
+![Dashboard Overview](Screenshots/screenshots/dashboard_Overview.PNG)
 
-### KPI Section
-![KPI Section](screenshots/kpi_section.PNG)
+### 🔹 KPI Section
+![KPI Section](Screenshots/screenshots/KPI_Section.PNG)
 
-### Charts & Insights 
-![Charts Section](screenshots/charts_section.PNG)
+### 🔹 Charts & Distribution
+![Charts Section](Screenshots/screenshots/Charts_Section.PNG)
+
 
 
 
