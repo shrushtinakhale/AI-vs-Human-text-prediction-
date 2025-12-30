@@ -52,20 +52,18 @@ The project follows an end-to-end analytics workflow, including text preprocessi
 * Deploy the model as a web application or API
 
 ##📈 Dashboard Preview
-### 🔹 Overall Dashboard
-![Dashboard Overview](Screenshots/screenshots/dashboard_Overview.PNG)
+## 📸 Screenshots
+
+### 🔹 Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_Overview.PNG)
 
 ### 🔹 KPI Section
-![KPI Section](Screenshots/screenshots/KPI_Section.PNG)
+![KPI Section](screenshots/KPI_Section.PNG)
 
-### 🔹 Charts & Distribution
-![Charts Section](Screenshots/screenshots/Charts_Section.PNG)
-
-
-
+### 🔹 Charts Section
+![Charts Section](screenshots/Charts_Section.PNG)
 
 👤 Author
-
 Shrushti Satish Nakhale
 M.Sc. Bioinformatics (Pursuing)
 Data Analytics | NLP | Machine Learning Enthusiast
