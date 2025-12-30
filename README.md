@@ -53,13 +53,13 @@ The project follows an end-to-end analytics workflow, including text preprocessi
 
 ##📈 Dashboard Preview
 ### Overall Dashboard
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.PNG)
 
 ### KPI Section
-![KPI Section](screenshots/kpi_section.png)
+![KPI Section](screenshots/kpi_section.PNG)
 
 ### Charts & Insights 
-![Charts Section](screenshots/charts_section.png)
+![Charts Section](screenshots/charts_section.PNG)
 
 
 
